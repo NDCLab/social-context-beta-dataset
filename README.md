@@ -1,4 +1,4 @@
-# [project name]
+# social-context-beta
 
 ## Project Goal
 
@@ -26,7 +26,7 @@ This `main` branch contains completed releases for this project. For all work-in
 | ---  | ---  |
 | Investigation, Project Administration | Emily Machado |
 | Supervision | Dr. George Buzzell |
-| Data Collection | Renata Dickinson, Aitana Fishcer, Sophia Charest, Carlos Rodriguez, Isabel Khouly |
+| Data Collection | Renata Dickinson, Aitana Fishcer, Sophia Charest, Carlos Rodriguez |
 
 Learn more about us [here](https://www.ndclab.com/people).
 

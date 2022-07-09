@@ -11,16 +11,12 @@ Please note our general guidelines for contributing to NDCLab projects [here](ht
 
 
 ## Roadmap
-Please see the roadmap available on the [README.md](README.md) file of this repository.
-
-:point_right: Keep the "Roadmap" text above but update the link to the `readme` for your repo. And, of course, delete this note before publishing the contributing file.
+Please see the roadmap available on the [README.md](https://github.com/NDCLab/social-context-beta-dataset) file of this repository.
 
 
 ## Directory Structure
-:point_right: Update this section as appropriate for your repo, then delete this note before publishing.
-
 ```yml
-project-name
+social-context-beta-dataset
 ├── code
 ├── containers
 ├── CONTRIBUTING.md
@@ -33,11 +29,12 @@ project-name
     ├──preprocessed
 ├── literature
 ├── materials
+    ├──multi-ef-inhibition
+          ├──readme.md
     ├──questionnaires
-    ├──task1
+    ├──study-protocol
           ├──protocol.md
-          ├──scripts
-          ├──stimuli
+          ├──readme
 ├── notebook.md
 ├── README.md
 ├── sourcedata

@@ -1,4 +1,4 @@
-# [project name]
+# social-context-beta
 
 ## Project Goal
 
